@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Haresh</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">I am a passionate full stack developer from India. I am currently studying for Masters Of Information Technology in Monash University. I have expierence of 1 year in a IT company called Incture Technologies, my role was to administrate SAP BTP platform. I have also experience in developing MERN stack projects and also using SpringBoot. I love technology and I am interested in joining communites. I am always up for working with others on new initiatives and concepts. Learn more about me here, and feel free to contact me:</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashharesh&label=Profile%20views&color=0e75b6&style=flat" alt="avinashharesh" /> </p>
