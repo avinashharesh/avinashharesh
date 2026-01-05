@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Avinash Haresh</h1>
-<h3 align="center">Results-driven Associate Software Engineer with expertise in SAP BTP optimization and backend development using SpringBoot.
-Skilled in Java, Python, JavaScript, and AWS services. Proven ability to enhance system performance, ensure high availability, and
-resolve issues efficiently. Holds a Bachelor's in Computer Science and pursuing a Master's in IT. AWS Certified Developer Associate
-and Cloud Practitioner with strong problem-solving skills.</h3>
+<h3 align="center">
+Results-driven Software Engineer with experience in backend development, cloud-native systems, and performance optimization.
+Former Associate Software Engineer with hands-on experience in SAP BTP and Spring Boot–based services.
+Skilled in Java, Python, JavaScript, and AWS (Lambda, API Gateway, S3, RDS).
+Master’s graduate in Information Technology from Monash University with strong problem-solving skills.
+AWS Certified Developer Associate and Cloud Practitioner.
+</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashharesh&label=Profile%20views&color=0e75b6&style=flat" alt="avinashharesh" /> </p>
 
-- 🔭 I’m currently working on [FoodDelivery App](https://github.com/avinashharesh/fooddeliveryapp)
+- 🔭 I’m currently working on [ChatGPT-Next-Web](https://github.com/avinashharesh/ChatGPT-Next-Web)
 
-- 🌱 I’m currently learning **React.js, SpringBoot**
+- 🌱 I’m currently learning **Machine Learning, GenAI, AWS AI Certification**
 
 - 👯 I’m looking to collaborate on [Blog App](https://github.com/avinashharesh/blog_app)
 
@@ -17,7 +21,7 @@ and Cloud Practitioner with strong problem-solving skills.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/avinashharesh/projects](https://github.com/avinashharesh/projects)
 
-- 💬 Ask me about **DSA, Node.js**
+- 💬 Ask me about **DSA, AWS, Vue.js, Java, Node.js**
 
 - 📫 How to reach me **avinashharesh4995@gmail.com**
 
