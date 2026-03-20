@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Avinash Haresh</h1>
 <h3 align="center">
-Results-driven Software Engineer with experience in backend development, cloud-native systems, and performance optimization.
-Former Associate Software Engineer with hands-on experience in SAP BTP and Spring Boot–based services.
-Skilled in Java, Python, JavaScript, and AWS (Lambda, API Gateway, S3, RDS).
-Master’s graduate in Information Technology from Monash University with strong problem-solving skills.
-AWS Certified Developer Associate and Cloud Practitioner.
+Results-driven Software Engineer with experience in backend development, cloud-native systems, and AI-powered applications.
+Built an enterprise-grade AI-powered HRMS at Akiyam Solution using multi-agent architecture, LLMs, and RAG to automate complex workflows.
+Former Associate Software Engineer with hands-on expertise in SAP BTP, developer support, and Spring Boot–based services.
+Proficient in Java, Python, and JavaScript, with experience in building scalable solutions using AWS (Lambda, API Gateway, S3, RDS).
+Master’s graduate in Information Technology from Monash University with strong problem-solving and system design skills.
+AWS Certified Developer Associate and AWS Certified Cloud Practitioner.
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
@@ -15,17 +16,13 @@ AWS Certified Developer Associate and Cloud Practitioner.
 
 - 🌱 I’m currently learning **Machine Learning, GenAI, AWS AI Certification**
 
-- 👯 I’m looking to collaborate on [Blog App](https://github.com/avinashharesh/blog_app)
-
-- 🤝 I’m looking for help with [WorkoutTracker App](https://github.com/avinashharesh/workout_tracker)
-
 - 👨‍💻 All of my projects are available at [https://github.com/avinashharesh/projects](https://github.com/avinashharesh/projects)
 
 - 💬 Ask me about **DSA, AWS, Vue.js, Java, Node.js**
 
 - 📫 How to reach me **avinashharesh4995@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cGscJZMchc-G8uGIgAZ4Tb0cwLOuBZMh/view?usp=sharing](https://drive.google.com/file/d/1cGscJZMchc-G8uGIgAZ4Tb0cwLOuBZMh/view?usp=sharing)
+- 🔗 Connect with me on LinkedIn **https://www.linkedin.com/in/avinash-haresh-2280b4202/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
