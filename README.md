@@ -12,7 +12,7 @@ AWS Certified Developer Associate and AWS Certified Cloud Practitioner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashharesh&label=Profile%20views&color=0e75b6&style=flat" alt="avinashharesh" /> </p>
 
-- 🔭 I’m currently working on [ChatGPT-Next-Web](https://github.com/avinashharesh/ChatGPT-Next-Web)
+- 🔭 I’m currently working on [AgentHub](https://github.com/avinashharesh/agent-hub)
 
 - 🌱 I’m currently learning **Machine Learning, GenAI, AWS AI Certification**
 
